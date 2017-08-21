@@ -11,3 +11,5 @@ This is a private demo project for deeplearning.
 * Deep&Wide-tf: Try Google's new model combine deep and wide model together
 * Lots of GAN: GAN, DCGAN, WGAN demo on MNIST
 * VGG16: Predicting image score with VGG16 model
+
+> Datasets are stored seperatly on other cloud clusters
